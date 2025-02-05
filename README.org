@@ -1,3 +1,8 @@
 #+title: Medicus
 
 To jest oddzielne repo dla malutkiego poda skonfigurowanego do testowania sieci wewnątrz kubernetesa.
+
+Po postawieniu poda wystarczy się do niego połączyć
+#+begin_src bash
+  kubectl exec -it medicus -- bash
+#+end_src
