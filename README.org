@@ -1,0 +1,3 @@
+#+title: Medicus
+
+To jest oddzielne repo dla malutkiego poda skonfigurowanego do testowania sieci wewnątrz kubernetesa.
